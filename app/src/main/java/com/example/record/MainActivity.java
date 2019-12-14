@@ -31,8 +31,8 @@ public class MainActivity extends AppCompatActivity {
         btndelete = findViewById(R.id.button5);
         AddData();
         viewAll();
-        UpdateData();6666666666666666
-        DeleteData();66666666666666666666666
+        UpdateData();
+        DeleteData();
     }
 
     public void DeleteData() {
